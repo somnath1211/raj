@@ -1,5 +1,3 @@
-name: Deploy to EKS
-
 # Trigger the workflow on push to the main branch
 on:
   push:
